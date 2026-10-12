@@ -1,9 +1,4 @@
-# Tugas Praktikum 4 - Java Swing GUI (PeopleData)
-
-Mata Kuliah: **Desain dan Pemrograman Berorientasi Objek (DPBO)**  
-Program Studi Ilmu Komputer, FPMIPA Universitas Pendidikan Indonesia  
-
----
+# Tugas Praktikum 4 DPBO - Java Swing GUI (PeopleData)
 
 ## 📌 Janji
 Saya **R Mohammad FIkry Mushoffa S** dengan NIM **2502049** mengerjakan Tugas Praktikum 4 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
