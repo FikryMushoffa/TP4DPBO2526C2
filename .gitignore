@@ -1,0 +1,9 @@
+### Build Output ###
+out/
+**/out/
+bin/
+**/bin/
+
+### OS files ###
+.DS_Store
+Thumbs.db
